@@ -1,4 +1,4 @@
 "# student PROJECT"
 
 
-![Alt text](src\images\shot1.jpg?raw=true "Title")
+![Alt text](https://github.com/a19950605/studentProject/tree/master/src/images/shot1)
